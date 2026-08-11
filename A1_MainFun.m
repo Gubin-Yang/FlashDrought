@@ -1,4 +1,4 @@
-clc;clear;close all
+
 addpath('J:\A_Hard_disk\IDM下载地址\SOFTX-D-21-00039-master\SOFTX-D-21-00039-master')
 % addpath  J:\A_Hard_disk\论文+开题\A3_全球骤旱驱动因子变化\A1_data\A1_FDidentify
 SMpct5d_GDFCX=load("J:\A_Hard_disk\论文+开题\A3_全球骤旱驱动因子变化\A1_data/OriginalData/Z_Resample/Observed_GDFC.mat","SMrootpct5d","SMsurfpct5d","maskPRE","date5d");
