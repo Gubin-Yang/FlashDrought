@@ -8,7 +8,7 @@ This repository contains the MATLAB code and processed data used to reproduce th
 
 > **Important scope note:** The original hydro-meteorological archive exceeds 560 TB, and complete preprocessing and event detection require substantial computing time. This repository is therefore a simplified, review-oriented release. It primarily presents processed results and reproduces analyses and figures reported in the manuscript.
 
-All code developed for this study, sufficient to reproduce all analyses and figures, is archived in the Science Data Bank ([scienceDB: https://www.scidb.cn/en/s/2QBf2q](https://www.scidb.cn/en/s/2QBf2q)).
+All code developed for this study, sufficient to reproduce all analyses and figures, is archived in the Science Data Bank ([https://www.scidb.cn/en/s/2QBf2q](https://www.scidb.cn/en/s/2QBf2q)).
 
 ## Purpose
 
