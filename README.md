@@ -8,6 +8,8 @@ This repository contains the MATLAB code and processed data used to reproduce th
 
 > **Important scope note:** The original hydro-meteorological archive exceeds 560 TB, and complete preprocessing and event detection require substantial computing time. This repository is therefore a simplified, review-oriented release. It primarily presents processed results and reproduces analyses and figures reported in the manuscript.
 
+All code developed for this study, sufficient to reproduce all analyses and figures, is archived in the Science Data Bank ([scienceDB: https://www.scidb.cn/en/s/2QBf2q]([https://www.scidb.cn/en/s/2QBf2q])).
+
 ## Purpose
 
 This code is released as the source-code record for **“Eroding Soil-Moisture Buffer Releases Heatwave Flash Droughts”** and is intended for peer review. It supports:
@@ -230,3 +232,4 @@ Figure export is intentionally left under reviewer control; the script does not 
 Processed data are supplied solely to support transparent review of the manuscript workflow. Source products remain subject to the licences and citation requirements of their respective providers. Users should obtain original reanalysis, CMIP6, population, and geographic datasets from their authoritative repositories for independent reconstruction or reuse.
 
 No scientific result should be inferred from function names or comments alone. Numerical outputs should be checked against manuscript figures, stated units, model coverage, and scenario definitions before reuse.
+
